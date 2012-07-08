@@ -1,4 +1,4 @@
 PanelWeb-ID
 ===========
 
-Web Panel
+Web Panel http://panel.web.id/
